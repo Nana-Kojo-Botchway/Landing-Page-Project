@@ -1,1 +1,1 @@
-# Landing-Page-Project
+# Figma-Suite-Landing-Page
